@@ -10,7 +10,7 @@
 - synchronized scrolling
 - github-style look
 - [TeX](https://github.com/KaTeX/KaTeX) math
-- [Mermaid](https://github.com/mermaid-js/mermaid) diagrams
+- [Mermaid](https://github.com/mermaid-js/mermaid) diagrams (11.12.0)
 
 ### :battery: Requirements
 
